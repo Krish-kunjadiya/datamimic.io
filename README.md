@@ -33,8 +33,9 @@ To develop a comprehensive web application, DataMimic.io, that serves as a power
 
 ### 1. Clone the Repository (Once available)
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Krish-kunjadiya/datamimic.io.git
 
 cd DataMimic.io
+
 
 
